@@ -32,7 +32,7 @@ Frontend: HTML, CSS, JavaScript, Java
 AI: chatGPT
 </p>
 <p align="center">
-Tools: Git, VS Code
+Tools: Git, Github, VS Code, PyCharm, Sublime Text
 </p>
 
 ## GitHub Stats
