@@ -26,7 +26,7 @@
 ## Skills and Technologies
 
 <p align="center">
-Frontend: HTML, CSS, JavaScript, Java
+HTML, CSS, JavaScript, Java, Python
 </p>
 <p align="center">
 AI: chatGPT
