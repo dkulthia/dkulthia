@@ -3,16 +3,16 @@
 
 ## About Me
 <p align="center">
- 💻 I'm enthusiastic about web development.
+ 💻 I'm enthusiastic about applications and browser extension.
 </p>
 <p align="center">
- 🌱 I'm currently exploring new AIs.
+ 🌱 I'm currently exploring Python.
 </p>
 <p align="center">
- 👯 I'm looking to collaborate on web applications.
+ 👯 I'm looking to collaborate on new projects.
 </p>
 <p align="center">
- 💬 Ask me about AI and web development.
+ 💬 Ask me about me!!
 </p>
 
 <!--
@@ -27,9 +27,6 @@
 
 <p align="center">
 HTML, CSS, JavaScript, Java, Python
-</p>
-<p align="center">
-AI: chatGPT
 </p>
 <p align="center">
 Tools: Git, Github, VS Code, PyCharm, Sublime Text
