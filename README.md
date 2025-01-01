@@ -29,7 +29,7 @@
 HTML, CSS, JavaScript, Java, Python
 </p>
 <p align="center">
-Tools: Git, Github, VS Code, PyCharm, Sublime Text
+Git, Github, VS Code, PyCharm, Sublime Text
 </p>
 
 ## GitHub Stats
