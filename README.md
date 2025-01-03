@@ -9,11 +9,11 @@
 
 ## 🌱 About Me
 
-- **💻 Web Development Enthusiast | Always exploring new tech**
-- **🌱 Currently diving deep into Python for powerful automation and data projects.**
-- **👯 Always open to collaborating on exciting projects and ideas.**
-- **📚 I believe in continuous learning and exploring new technologies.**
-- **💬 Feel free to get in touch**
+- 💻 **Web Development Enthusiast** | Always exploring new tech.
+- 🌱 Currently diving deep into **Python** for powerful automation and data projects.
+- 👯 Always open to **collaborating** on exciting projects and ideas.
+- 📚 I believe in continuous learning and exploring new **technologies**.
+- 💬 Feel free to **get in touch**.
 
 ---
 
@@ -40,10 +40,10 @@
 ## 🛠️ Featured Projects
 
 ### 🚀 [ClipTube](https://github.com/darshkul24/ClipTube)
-**An intuitive YouTube video downloader with a user-friendly GUI. Download your favorite videos in various resolutions with real-time progress tracking.**
+An intuitive YouTube video downloader with a user-friendly GUI. Download your favorite videos in various resolutions with real-time progress tracking.
 
 ### 💡 [Deal.AI](https://github.com/darshkul24/Deal.AI)
-**A browser extension that tracks product prices across e-commerce websites and notifies users when there's a price drop.**
+A browser extension that tracks product prices across e-commerce websites and notifies users when there's a price drop.
 
 ---
 
