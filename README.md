@@ -1,54 +1,62 @@
-<h1 align="center">Hi there, I'm Darsh Kulthia! 👋</h1>
-<p align="center">I'm a passionate Web Developer based in India. I love diving into new technologies and solving real-life problems through code.</p>
-
-## About Me
-<p align="center">
- 💻 I'm enthusiastic about applications and browser extension.
-</p>
-<p align="center">
- 🌱 I'm currently exploring Python.
-</p>
-<p align="center">
- 👯 I'm looking to collaborate on new projects.
-</p>
-<p align="center">
- 💬 Ask me about me!!
-</p>
-
-<!--
-## Projects
-- [Project 1](link_to_project_1): Brief description here.
-- [Project 2](link_to_project_2): Brief description here.
-- [Project 3](link_to_project_3): Brief description here.
-
--->
-
-## Skills and Technologies
+<h1 align="center">✨ Hi, I'm Darsh Kulthia! 👋</h1>
+<p align="center">Passionate Web Developer | Python Enthusiast | Creator of Applications & Browser Extensions🚀</p>
 
 <p align="center">
-HTML, CSS, JavaScript, Java, Python
-</p>
-<p align="center">
-Git, Github, VS Code, PyCharm, Sublime Text
+  <a href="https://github.com/darshkul24" target="_blank"><img src="https://img.shields.io/github/followers/darshkul24?label=Follow&style=social" alt="GitHub Follow" /></a>
 </p>
 
-## GitHub Stats
+---
+
+## 🌱 About Me
+
+- 💻 **Web Development Enthusiast** | Always exploring new tech
+- 🌱 Currently diving deep into **Python** for powerful automation and data projects.
+- 👯 Always open to collaborating on exciting projects and ideas.
+- 📚 I believe in continuous learning and exploring new technologies.
+- 💬 Feel free to ask me about **anything!**
+
+---
+
+## 🔧 Technologies & Tools
+
+### Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darshkul24&show_icons=true&hide_border=true" alt="Your GitHub stats" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-## Most used language
+### Tools & Frameworks:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshkul24&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white" />
 </p>
 
-## Github Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshkul24&" alt="GitHub Streak" />
-</p>
+---
 
-<!--
-## Contact Information
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [Your Portfolio](link_to_portfolio)
--->
+## 🛠️ Featured Projects
+
+### 🚀 [ClipTube](https://github.com/darshkul24/ClipTube)
+An intuitive YouTube video downloader with a user-friendly GUI. Download your favorite videos in various resolutions with real-time progress tracking.
+
+### 💡 [Deal.AI](https://github.com/darshkul24/Deal.AI)
+A browser extension that tracks product prices across e-commerce websites and notifies users when there's a price drop.
+
+---
+
+## 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/darshkulthia)  
+- 📝 [Blog](https://darshkulthia.medium.com)  
+- 📧 Email: [darshkulthia@example.com](mailto:darshkulthia@example.com)
+
+---
+
+<p align="center">
+  <em>"Coding isn't just a job; it's a way of solving the world's problems, one line at a time."</em>
+</p>
