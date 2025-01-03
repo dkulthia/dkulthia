@@ -49,9 +49,9 @@ A browser extension that tracks product prices across e-commerce websites and no
 
 ## 📬 Let's Connect
 
-- 🖥️ [GitHub](https://github.com/darshkul24)
-- 📧 Email: [darshkulthia@example.com](mailto:darshkulthia@example.com)
-- 📱 Phone: +91 9674243324
+- 📧 **Email**: [darshkulthia@gmail.com](mailto:darshkulthia@gmail.com)
+- 📱 **Phone**: +91 9674243324
+
 
 
 ---
