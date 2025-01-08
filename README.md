@@ -2,7 +2,7 @@
 <p align="center">Passionate Web Developer | Python Enthusiast | Creator of Applications & Browser Extensions🚀</p>
 
 <p align="center">
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Darshkul24&label=Profile%20views&color=red&style=flat" alt="raghavguptaa" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Darshkul24&label=Profile%20views&color=grey&style=flat" alt="raghavguptaa" /> </p>
 </p>
 
 ---
