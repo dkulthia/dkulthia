@@ -2,7 +2,7 @@
 <p align="center">Passionate Web Developer | Python Enthusiast | Creator of Applications & Browser Extensions🚀</p>
 
 <p align="center">
-  <a href="https://github.com/darshkul24" target="_blank"><img src="https://img.shields.io/github/followers/darshkul24?label=Follow&style=social" alt="GitHub Follow" /></a>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Darshkul24&label=Profile%20views&color=red&style=flat" alt="raghavguptaa" /> </p>
 </p>
 
 ---
