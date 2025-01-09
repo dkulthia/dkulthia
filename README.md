@@ -20,11 +20,11 @@
 ## 🔧 Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=black" />
 </p>
 
 <p align="center">
