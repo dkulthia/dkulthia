@@ -23,8 +23,12 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=black" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=plastic&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white" />
+
+  
 </p>
 
 <p align="center">
