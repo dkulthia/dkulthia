@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SASS-CC6699?style=plastic&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwindcss&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white" />
