@@ -38,6 +38,8 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=plastic&logo=sublime-text&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-000000?style=plastic&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=white" />
+
 
 </p>
 
