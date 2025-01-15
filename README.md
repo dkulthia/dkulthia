@@ -39,12 +39,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=plastic&logo=bitbucket&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=plastic&logo=sublime-text&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-000000?style=plastic&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black" />
-
+  <img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?style=plastic&logo=travis&logoColor=black" />
+  <img src="https://img.shields.io/badge/CircleCI-000000?style=plastic&logo=circleci&logoColor=white" />
 
 </p>
 
