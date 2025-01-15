@@ -29,6 +29,8 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" />
+
   
 </p>
 
