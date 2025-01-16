@@ -9,11 +9,13 @@
 
 ## 🌱 About Me
 
-- 💻 **Web Development Enthusiast** | Always exploring new tech.
-- 🌱 Currently diving deep into **Python** for powerful automation and data projects.
-- 👯 Always open to **collaborating** on exciting projects and ideas.
-- 📚 I believe in continuous learning and exploring new **technologies**.
-- 💬 Feel free to **get in touch**.
+<div align="center">
+  <p>💻 **Web Development Enthusiast** | Always exploring new tech.</p>
+  <p>🌱 Currently diving deep into **Python** for powerful automation and data projects.</p>
+  <p>👯 Always open to **collaborating** on exciting projects and ideas.</p>
+  <p>📚 I believe in continuous learning and exploring new **technologies**.</p>
+  <p>💬 Feel free to **get in touch**.</p>
+</div>
 
 ---
 
@@ -72,6 +74,10 @@
 <img src="https://img.shields.io/badge/ESLint-4B32C3?style=plastic&logo=eslint&logoColor=black" />
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Learning-New%20Technologies-orange?style=plastic&logo=book&logoColor=black" />
+<img src="https://img.shields.io/badge/Open%20to%20Collaborations-green?style=plastic&logo=handshake&logoColor=black" />
+</p>
 
 ---
 
@@ -107,6 +113,8 @@
   [![Telegram Badge](https://img.shields.io/badge/Telegram-Message-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/Darshkul24)
   [![Instagram Badge](https://img.shields.io/badge/Instagram-dkulthia-E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/dkulthia)
   [![Discord Badge](https://img.shields.io/badge/Discord-darshkul24-7289DA?style=plastic&logo=discord&logoColor=white)](https://discord.com/users/darshkul24)
+
+  
 
 </div>
 
