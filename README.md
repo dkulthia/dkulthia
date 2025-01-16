@@ -77,14 +77,20 @@
 
 ## 🛠️ Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darshkul24&repo=Darshkul24&theme=dark)](https://github.com/darshkul24/Darshkul24)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darshkul24&repo=darshkul24.github.io&theme=dark)](https://github.com/darshkul24/darshkul24.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darshkul24&repo=Mediacut&theme=dark)](https://github.com/darshkul24/Mediacut)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darshkul24&repo=ClipTube&theme=dark)](https://github.com/darshkul24/ClipTube)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darshkul24&repo=Click-Quest&theme=dark)](https://github.com/darshkul24/Click-Quest)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darshkul24&repo=Turbo-Typer-Pro&theme=dark)](https://github.com/darshkul24/Turbo-Typer-Pro)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Widget-Wizards&repo=AutoPing&theme=dark)](https://github.com/Widget-Wizards/AutoPing)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darshkul24&repo=IGTracker&theme=dark)](https://github.com/darshkul24/IGTracker)
+<p align="center">
+  <a href="https://github.com/darshkul24/Mediacut">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=darshkul24&repo=Mediacut&show_owner=true&theme=dark" alt="Mediacut" />
+  </a>
+  <a href="https://github.com/darshkul24/ClipTube">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=darshkul24&repo=ClipTube&show_owner=true&theme=dark" alt="ClipTube" />
+  </a>
+  <a href="https://github.com/darshkul24/Click-Quest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=darshkul24&repo=Click-Quest&show_owner=true&theme=dark" alt="Click Quest" />
+  </a>
+  <a href="https://github.com/darshkul24/Turbo-Typer-Pro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=darshkul24&repo=Turbo-Typer-Pro&show_owner=true&theme=dark" alt="Turbo Typer Pro" />
+  </a>
+</p>
 
 
 ---
