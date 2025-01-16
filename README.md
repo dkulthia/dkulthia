@@ -77,11 +77,15 @@
 
 ## 🛠️ Featured Projects
 
-### 🚀 [ClipTube](https://github.com/darshkul24/ClipTube)
-An intuitive YouTube video downloader with a user-friendly GUI. Download your favorite videos in various resolutions with real-time progress tracking.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darshkul24&repo=Darshkul24&theme=dark)](https://github.com/darshkul24/Darshkul24)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darshkul24&repo=darshkul24.github.io&theme=dark)](https://github.com/darshkul24/darshkul24.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darshkul24&repo=Mediacut&theme=dark)](https://github.com/darshkul24/Mediacut)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darshkul24&repo=ClipTube&theme=dark)](https://github.com/darshkul24/ClipTube)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darshkul24&repo=Click-Quest&theme=dark)](https://github.com/darshkul24/Click-Quest)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darshkul24&repo=Turbo-Typer-Pro&theme=dark)](https://github.com/darshkul24/Turbo-Typer-Pro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Widget-Wizards&repo=AutoPing&theme=dark)](https://github.com/Widget-Wizards/AutoPing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darshkul24&repo=IGTracker&theme=dark)](https://github.com/darshkul24/IGTracker)
 
-### 💡 [Deal.AI](https://github.com/darshkul24/Deal.AI)
-A browser extension that tracks product prices across e-commerce websites and notifies users when there's a price drop.
 
 ---
 
