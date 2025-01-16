@@ -97,13 +97,18 @@
 
 ## 📬 Let's Connect
 
-[![Email Badge](https://img.shields.io/badge/Email-darshkulthia@gmail.com-red?style=plastic&logo=gmail&logoColor=white)](mailto:darshkulthia@gmail.com)  
-![Phone Badge](https://img.shields.io/badge/Phone-+91%201234567890-blue?style=plastic&logo=phone&logoColor=white)  
+<div align="center">
+  
+  [![Email Badge](https://img.shields.io/badge/Gmail-darshkulthia@gmail.com-red?style=plastic&logo=gmail&logoColor=white)](mailto:darshkulthia@gmail.com)
+  ![Phone Badge](https://img.shields.io/badge/Phone-+91%209674243324-blue?style=plastic&logo=phone&logoColor=white)
+  
+  [![GitHub Badge](https://img.shields.io/badge/GitHub-Darshkul24-black?style=plastic&logo=github)](https://github.com/Darshkul24)
+  [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-Message-25D366?style=plastic&logo=whatsapp&logoColor=white)](https://wa.me/919674243324)
+  [![Telegram Badge](https://img.shields.io/badge/Telegram-Message-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/Darshkul24)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-dkulthia-E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/dkulthia)
+  [![Discord Badge](https://img.shields.io/badge/Discord-darshkul24-7289DA?style=plastic&logo=discord&logoColor=white)](https://discord.com/users/darshkul24)
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Darshkul24-grey?style=plastic&logo=github)](https://github.com/Darshkul24)   
-[![Instagram Badge](https://img.shields.io/badge/Instagram-dkulthia-E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/dkulthia)
-
-
+</div>
 
 
 ---
