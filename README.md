@@ -97,11 +97,11 @@
 
 ## 📬 Let's Connect
 
-[![Email Badge](https://img.shields.io/badge/Email-darshkulthia@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:darshkulthia@gmail.com)  
-![Phone Badge](https://img.shields.io/badge/Phone-+91%201234567890-blue?style=flat&logo=phone&logoColor=white)  
+[![Email Badge](https://img.shields.io/badge/Email-darshkulthia@gmail.com-red?style=plastic&logo=gmail&logoColor=white)](mailto:darshkulthia@gmail.com)  
+![Phone Badge](https://img.shields.io/badge/Phone-+91%201234567890-blue?style=plastic&logo=phone&logoColor=white)  
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Darshkul24-grey?style=flat&logo=github)](https://github.com/Darshkul24)   
-[![Instagram Badge](https://img.shields.io/badge/Instagram-dkulthia-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/dkulthia)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Darshkul24-grey?style=plastic&logo=github)](https://github.com/Darshkul24)   
+[![Instagram Badge](https://img.shields.io/badge/Instagram-dkulthia-E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/dkulthia)
 
 
 
