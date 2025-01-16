@@ -114,7 +114,7 @@
   [![Instagram Badge](https://img.shields.io/badge/Instagram-dkulthia-E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/dkulthia)
   [![Discord Badge](https://img.shields.io/badge/Discord-darshkul24-7289DA?style=plastic&logo=discord&logoColor=white)](https://discord.com/users/darshkul24)
 
-  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=plastic&logo=firefox)](https://darshkul24.github.io)
 
 </div>
 
