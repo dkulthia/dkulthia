@@ -97,8 +97,12 @@
 
 ## 📬 Let's Connect
 
-- 📧 **Email**: [darshkulthia@gmail.com](mailto:darshkulthia@gmail.com)
-- 📱 **Phone**: +91 9674243324
+[![Email Badge](https://img.shields.io/badge/Email-darshkulthia@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:darshkulthia@gmail.com)  
+![Phone Badge](https://img.shields.io/badge/Phone-+91%201234567890-blue?style=flat&logo=phone&logoColor=white)  
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Darshkul24-grey?style=flat&logo=github)](https://github.com/Darshkul24)   
+[![Instagram Badge](https://img.shields.io/badge/Instagram-dkulthia-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/dkulthia)
+
 
 
 
