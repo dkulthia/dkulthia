@@ -125,3 +125,6 @@
   <img src="https://img.shields.io/badge/It's%20not%20a%20bug%20–%20it's%20an%20undocumented%20feature!-Anonymous-blue?style=plastic" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/It%20Works%20on%20my%20machine!-Anonymous-blue?style=plastic" />
+</p>
