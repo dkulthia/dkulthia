@@ -122,6 +122,6 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it’s%20bad.-Cory%20House-blue?style=plastic" />
+  <img src="https://img.shields.io/badge/It's%20not%20a%20bug%20–%20it's%20an%20undocumented%20feature!-Anonymous-blue?style=plastic" />
 </p>
 
