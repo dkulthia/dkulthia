@@ -84,17 +84,17 @@
 ## 🛠️ Featured Projects
 
 <p align="center">
-  <a href="https://github.com/darshkul24/Mediacut">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=darshkul24&repo=Mediacut&show_owner=true&theme=dark" alt="Mediacut" />
+  <a href="https://github.com/dkulthia/Mediacut">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkulthia&repo=Mediacut&show_owner=true&theme=dark" alt="Mediacut" />
   </a>
-  <a href="https://github.com/darshkul24/ClipTube">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=darshkul24&repo=ClipTube&show_owner=true&theme=dark" alt="ClipTube" />
+  <a href="https://github.com/dkulthia/ClipTube">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkulthia&repo=ClipTube&show_owner=true&theme=dark" alt="ClipTube" />
   </a>
-  <a href="https://github.com/darshkul24/Click-Quest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=darshkul24&repo=Click-Quest&show_owner=true&theme=dark" alt="Click Quest" />
+  <a href="https://github.com/dkulthia/Click-Quest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkulthia&repo=Click-Quest&show_owner=true&theme=dark" alt="Click Quest" />
   </a>
-  <a href="https://github.com/darshkul24/Turbo-Typer-Pro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=darshkul24&repo=Turbo-Typer-Pro&show_owner=true&theme=dark" alt="Turbo Typer Pro" />
+  <a href="https://github.com/dkulthia/Turbo-Typer-Pro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkulthia&repo=Turbo-Typer-Pro&show_owner=true&theme=dark" alt="Turbo Typer Pro" />
   </a>
 </p>
 
@@ -108,13 +108,13 @@
   [![Email Badge](https://img.shields.io/badge/Gmail-darshkulthia@gmail.com-red?style=plastic&logo=gmail&logoColor=white)](mailto:darshkulthia@gmail.com)
   ![Phone Badge](https://img.shields.io/badge/Phone-+91%209674243324-blue?style=plastic&logo=phone&logoColor=white)
   
-  [![GitHub Badge](https://img.shields.io/badge/GitHub-Darshkul24-black?style=plastic&logo=github)](https://github.com/Darshkul24)
+  [![GitHub Badge](https://img.shields.io/badge/GitHub-dkulthia-black?style=plastic&logo=github)](https://github.com/dkulthia)
   [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-Message-25D366?style=plastic&logo=whatsapp&logoColor=white)](https://wa.me/919674243324)
   [![Telegram Badge](https://img.shields.io/badge/Telegram-Message-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/Darshkul24)
   [![Instagram Badge](https://img.shields.io/badge/Instagram-dkulthia-E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/dkulthia)
   [![Discord Badge](https://img.shields.io/badge/Discord-darshkul24-7289DA?style=plastic&logo=discord&logoColor=white)](https://discord.com/users/darshkul24)
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=plastic&logo=firefox)](https://darshkul24.github.io)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=plastic&logo=firefox)](https://dkulthia.github.io)
 
 </div>
 
