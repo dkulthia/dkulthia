@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/SASS-CC6699?style=plastic&logo=sass&logoColor=black" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwindcss&logoColor=black" />
 <!-- img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=black" /-->
-<!-- img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black" /-->
+<img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black" />
 <!-- img src="https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=black" /-->
 <!-- img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=vue.js&logoColor=black" /-->
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white" />
