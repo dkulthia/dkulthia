@@ -84,8 +84,8 @@
 ## 🛠️ Featured Projects
 
 <p align="center">
-  <a href="https://github.com/dkulthia/Mediacut">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkulthia&repo=Mediacut&show_owner=true&theme=dark" alt="Mediacut" />
+  <a href="https://github.com/dkulthia/Paddle-Protocol">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkulthia&repo=Paddle-Protocol&show_owner=true&theme=dark" alt="Paddle-Protocol" />
   </a>
   <a href="https://github.com/dkulthia/ClipTube">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkulthia&repo=ClipTube&show_owner=true&theme=dark" alt="ClipTube" />
