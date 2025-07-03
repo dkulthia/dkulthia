@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hi, I'm Darsh Kulthia! 👋</h1>
-<p align="center">Passionate Web Developer | Python Enthusiast | Creator of Applications & Browser Extensions🚀</p>
+<p align="center"> Passionate Web Developer | Python Enthusiast | Creator of Applications & Browser Extensions🚀</p>
 
 <p align="center">
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Darshkul24&label=Profile%20views&color=grey&style=plastic&abbreviated=true"/> </p>
