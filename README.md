@@ -84,17 +84,17 @@
 ## 🛠️ Featured Projects
 
 <p align="center">
+  <a href="https://github.com/dkulthia/Task-Protocol">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkulthia&repo=Task-Protocol&show_owner=true&theme=dark" alt="Task-Protocol" />
+  </a>
+  <a href="https://github.com/dkulthia/QR-Protocol">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkulthia&repo=QR-Protocol&show_owner=true&theme=dark" alt="QR-Protocol" />
+  </a>
   <a href="https://github.com/dkulthia/Paddle-Protocol">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkulthia&repo=Paddle-Protocol&show_owner=true&theme=dark" alt="Paddle-Protocol" />
   </a>
-  <a href="https://github.com/dkulthia/ClipTube">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkulthia&repo=ClipTube&show_owner=true&theme=dark" alt="ClipTube" />
-  </a>
-  <a href="https://github.com/dkulthia/Click-Quest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkulthia&repo=Click-Quest&show_owner=true&theme=dark" alt="Click Quest" />
-  </a>
-  <a href="https://github.com/dkulthia/Turbo-Typer-Pro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkulthia&repo=Turbo-Typer-Pro&show_owner=true&theme=dark" alt="Turbo Typer Pro" />
+  <a href="https://github.com/dkulthia/Ascii-Protocol">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkulthia&repo=Ascii-Protocol&show_owner=true&theme=dark" alt="Ascii-Protocol" />
   </a>
 </p>
 
