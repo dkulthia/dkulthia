@@ -128,7 +128,3 @@
 <p align="center">
   <img src="https://img.shields.io/badge/It%20Works%20on%20my%20machine!-Anonymous-blue?style=plastic" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/“Style%20is%20substance.”%20—%20especially%20in%20web%20design!-Anonymous-blue?style=plastic" />
-</p>
