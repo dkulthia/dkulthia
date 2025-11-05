@@ -10,11 +10,11 @@
 ## 🌱 About Me
 
 <div align="center">
-  <p>💻 **Web Development Enthusiast** | Always exploring new tech.</p>
-  <p>🌱 Currently diving deep into **Python** for powerful automation and data projects.</p>
-  <p>👯 Always open to **collaborating** on exciting projects and ideas.</p>
-  <p>📚 I believe in continuous learning and exploring new **technologies**.</p>
-  <p>💬 Feel free to **get in touch**.</p>
+  <p>💻 Web Development Enthusiast | Always exploring new tech.</p>
+  <p>🌱 Currently diving deep into Python for powerful automation and data projects.</p>
+  <p>👯 Always open to collaborating on exciting projects and ideas.</p>
+  <p>📚 I believe in continuous learning and exploring new technologies.</p>
+  <p>💬 Feel free to get in touch.</p>
 </div>
 
 ---
