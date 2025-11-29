@@ -90,11 +90,11 @@
   <a href="https://github.com/dkulthia/QR-Protocol">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkulthia&repo=QR-Protocol&show_owner=true&theme=dark" alt="QR-Protocol" />
   </a>
-  <a href="https://github.com/dkulthia/Paddle-Protocol">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkulthia&repo=Paddle-Protocol&show_owner=true&theme=dark" alt="Paddle-Protocol" />
-  </a>
   <a href="https://github.com/dkulthia/Ascii-Protocol">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkulthia&repo=Ascii-Protocol&show_owner=true&theme=dark" alt="Ascii-Protocol" />
+  </a>
+  <a href="https://github.com/dkulthia/Explorion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkulthia&repo=Explorion&show_owner=true&theme=dark" alt="Explorion" />
   </a>
 </p>
 
