@@ -101,6 +101,19 @@
 
 ---
 
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dkulthia&theme=dark" alt="Github Streaks" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dkulthia&theme=dark" alt="Contribution Graph" />
+</p>
+
+
+---
+
 ## 📬 Let's Connect
 
 <div align="center">
