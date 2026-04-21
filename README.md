@@ -84,17 +84,17 @@
 ## 🛠️ Featured Projects
 
 <p align="center">
-  <a href="https://github.com/dkulthia/Task-Protocol">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkulthia&repo=Task-Protocol&show_owner=true&theme=dark" alt="Task-Protocol" />
+  <a href="https://github.com/dkulthia/dkulthia.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkulthia&repo=dkulthia.github.io&show_owner=true&theme=dark" alt="dkulthia.github.io" />
   </a>
-  <a href="https://github.com/dkulthia/QR-Protocol">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkulthia&repo=QR-Protocol&show_owner=true&theme=dark" alt="QR-Protocol" />
+  <a href="https://github.com/dkulthia/Algoflow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkulthia&repo=Algoflow&show_owner=true&theme=dark" alt="Algoflow" />
   </a>
-  <a href="https://github.com/dkulthia/Ascii-Protocol">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkulthia&repo=Ascii-Protocol&show_owner=true&theme=dark" alt="Ascii-Protocol" />
+  <a href="https://github.com/dkulthia/ClipTube">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkulthia&repo=ClipTube&show_owner=true&theme=dark" alt="ClipTube" />
   </a>
-  <a href="https://github.com/dkulthia/Explorion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkulthia&repo=Explorion&show_owner=true&theme=dark" alt="Explorion" />
+  <a href="https://github.com/dkulthia/fullstack-genai-agenticai-python-course">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkulthia&repo=fullstack-genai-agenticai-python-course&show_owner=true&theme=dark" alt="fullstack-genai-agenticai-python-course" />
   </a>
 </p>
 
