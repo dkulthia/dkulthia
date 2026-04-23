@@ -104,7 +104,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dkulthia&theme=dark" alt="Github Streaks" />
+  <img src="https://streak-stats.demolab.com/?user=dkulthia&theme=dark" alt="Github_streaks" />
 </p>
 
 <p align="center">
