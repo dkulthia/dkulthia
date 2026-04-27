@@ -10,7 +10,7 @@
 ## 🌱 About Me
 
 <div align="center">
-  <p>💻 Web Development Enthusiast | Always exploring new tech.</p>
+  <p>💻 Tech Enthusiast | Always exploring new tech.</p>
   <p>🌱 Currently diving deep into Python for powerful Gen and agentic AI</p>
   <p>👯 Always open to collaborating on exciting projects and ideas.</p>
   <p>📚 I believe in continuous learning and exploring new technologies.</p>
